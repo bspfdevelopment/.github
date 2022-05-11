@@ -1,2 +1,4 @@
-# .github
-BSPF Systems, LLC (Previously known as BSPF Development, LLC) GitHub Organization Repository
+# BSPF Systems, LLC GitHub Organization Repository
+### (Formerly Known as BSPF Development, LLC)
+
+Source repository for the GitHub Organization for BSPF Systems, LLC. You can check out the site [here](https://bspfsystems.org/).
